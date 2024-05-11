@@ -11,14 +11,6 @@ Think Visual is an innovative app created by Team PlusUltra, consisting of Sahil
 - *Multi-Language Support*: Access content in your preferred language.
 - *User-Friendly Interface*: Enjoy a seamless learning experience with an intuitive interface.
 
-## Getting Started
-
-To get started with Think Visual, follow these steps:
-
-1. *Download the App*: Visit our website [here](#) to download the app for your device.
-2. *Install*: Follow the installation instructions for your device.
-3. *Launch the App*: Open the app and explore the various features available.
-
 ## Usage
 
 - *Quizzes*: Select a quiz category and start answering questions.
