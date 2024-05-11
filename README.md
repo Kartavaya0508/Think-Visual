@@ -29,7 +29,7 @@ We value your feedback! If you have any suggestions or encounter any issues whil
 - *Aryan*: AI Developer
 - *Kartavaya*: Web Developer
 
-##Think Visual
+# Think Visual
 
 
 WHERE CONCEPT MEETS CLARITY!
