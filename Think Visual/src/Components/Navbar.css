@@ -1,0 +1,44 @@
+/* Navbar.css */
+.navbar {
+    background-color: #ffff;
+    overflow: hidden;
+    color: #000;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    float: left;
+    height: 60px; /* Adjust according to your logo */
+    width: auto;
+    margin-right: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    float: right;
+  }
+  
+  ul li {
+    float: left;
+    margin-left: 20px;
+  }
+  
+  ul li a {
+    color: rgb(71, 67, 67);
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+  }
+  
+  ul li a:hover {
+    color: #ffd700; /* Change color on hover */
+  }
+  .log{
+    border-color: rgb(39, 2, 39);
+    background-color: transparent;
+    height: 30px;
+    color: rgb(39, 2, 39);
+  }
+  .log:hover{
+    background-color: rgb(124, 59, 124);
+  }
